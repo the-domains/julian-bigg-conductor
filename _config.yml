@@ -1,0 +1,28 @@
+name: Julian Bigg Conductor
+favicon: null
+layout_spectrum: 0.6110850351396948
+typography_spectrum: 0.3840760721359402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1667494964785874
+  lightness: 0.09415522380732
+  saturation: 0.3896705561783165
+  rhythmicContrast: 0.35097437095828354
+purpose: []
